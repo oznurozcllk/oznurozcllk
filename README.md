@@ -1,4 +1,5 @@
 Hi, I'm Öznur Özçelik
+
 🌱 I’m currently learning Advanced HTML, CSS, JavaScript, and React.
 
 
